@@ -170,7 +170,7 @@ body {
 }
 @media (max-width: 425px) {
   .top__row {
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   }
 }
 .top__row > * {
