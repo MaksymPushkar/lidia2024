@@ -1,3 +1,8 @@
+* {
+  transition-duration: 0.2s;
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Plus Jakarta Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
